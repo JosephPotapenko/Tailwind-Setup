@@ -4,4 +4,4 @@ This is an unfinished project which requires you to install several more dependa
 ## What is this
 This is a simple integration of tailwind in order to produce the confetti effect on the user's screen.
 ## How to use
-Simple run the project and if everything is set up correctly, then the confetti effect will activate. 
+Simply run the project and if everything is set up correctly, then the confetti effect will activate. 
